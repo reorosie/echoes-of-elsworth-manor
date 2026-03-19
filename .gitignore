@@ -1,0 +1,18 @@
+# Godot 4 .gitignore
+.godot/
+*.translation
+export_presets.cfg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large files
+*.wav
+*.mp3
+*.ogg
+*.import
+
+# Logs
+*.log
